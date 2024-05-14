@@ -1,0 +1,5 @@
+.venv/*
+capturas/*
+chrome_webdriver/*
+*.pdf
+temp.py

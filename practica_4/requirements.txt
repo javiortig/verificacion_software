@@ -1,0 +1,5 @@
+# Behavior Driven Development dependencies
+behave
+selenium
+compare
+requests
